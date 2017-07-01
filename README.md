@@ -9,3 +9,4 @@ Analgous to a shelter for animals, this shelter would rescue succulents that are
 ## unordered list
 * Decision making checklist
 * Problem solving checklist
+* Getting really good a buying cheap stuff from [Online Auctions](https://www.bid4assets.com/)
