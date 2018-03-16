@@ -1,8 +1,10 @@
 # ideas
-better than the rolodex they used to be written down in. 
+better than the rolodex they used to be written down in.
 ## software
 ### Gmail inbox monitoring
-Logging and graphing of the number of emails in your inbox. The output would be a stacked area graph showing time based trends of when you receive, read and archive your messages. Not sure what behavior changes  could be made with that information. 
+Logging and graphing of the number of emails in your inbox. The output would be a stacked area graph showing time based trends of when you receive, read and archive your messages. Not sure what behavior changes  could be made with that information.
+### Robinhood & Gsheets
+Use the Robinhood API & google sheets for better options strategies.
 ## physical
 ### Succulent Shelter
 Analgous to a shelter for animals, this shelter would rescue succulents that are being abused, or are unloved.
